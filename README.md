@@ -26,6 +26,8 @@ These isoforms metabolize most therapeutic drugs in humans.
 
 **DOI:** https://doi.org/10.1186/1471-2210-10-8
 
+  https://doi.org/10.5281/zenodo.20084455
+
 ---
 
 ## Background
